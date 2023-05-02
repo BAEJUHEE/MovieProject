@@ -4,7 +4,7 @@
 
 -개발 기간 : 2023년 2월 ~ 2023년 3월
 
--개발 환경 : Windows 10 Education, java 8, Eclips, Spring Tools 3 3.9.14.RELEASE, Apach Tomcat 9.0, Oracle 11g, MyBatis 3.1.0
+-기술 스택 : Windows 10 Education, java 8, Eclips, Spring Tools 3 3.9.14.RELEASE, Apach Tomcat 9.0, Oracle 11g, MyBatis 3.1.0
 
 -프로젝트의 특징 : 회원 가입 및 회원정보 수정 영화 예매 기능 외부 API를 활용한 영화 예매시 문자 전송 기능 게시판의 파일 다중이미지 업로드 기능
 
